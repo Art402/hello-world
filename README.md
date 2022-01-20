@@ -1,13 +1,14 @@
-<h1 align="center">
+
+## I'm Arthur, currently studying data analytics at Université de Caen Normandie.
+
+<h2 align="center">
+  <a href="https://www.unicaen.fr/"><img src="https://www.unicaen.fr/wp-content/uploads/2020/10/UNICAEN_UFR_Sciences-768x346.jpg" alt="Unicaen" width="600px" />
   <br>
-  Bonjour, moi c'est Arthur.
-  <br>
-</h1>
+</h2>
+
+
 
 <h4 align="center">
-  Je suis Analyste de Données en formation à l'université de Caen Normandie.
-  <br>
-  <a href="https://www.unicaen.fr/"><img src="https://www.unicaen.fr/wp-content/uploads/2020/10/UNICAEN_UFR_Sciences-768x346.jpg" alt="Unicaen" width="400"></a>
   <br>
   Check me out here : <a href="https://arthurgires.me" target="_blank">arthurgires.me</a> 
 </h4>
