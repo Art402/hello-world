@@ -1,10 +1,10 @@
 <h1 align="center">
   <br>
-  <a href="https://en.wikipedia.org/wiki/List_of_cult_films"><img src="https://upload.wikimedia.org/wikipedia/en/8/80/Wikipedia-logo-v2.svg" alt="Wikipedia" width="200"></a>
+  <a href="https://www.unicaen.fr/"><img src="https://www.unicaen.fr/wp-content/uploads/2020/10/logos-Marianne-UNICAEN-1536x507.jpg" alt="Unicaen" width="200"></a>
   <br>
   Bonjour, moi c'est Arthur.
   <br>
-  Je suis Analyste de Données en formation.
+  Je suis Analyste de Données en formation à l'université de Caen Normandie.
   <br>
 </h1>
 
